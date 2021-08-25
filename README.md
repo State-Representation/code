@@ -1,7 +1,7 @@
 # Comparing Reconstruction and Contrastive-based Models for Task Irrelevant Factors of Variation
 This is the code for the paper: Comparing Reconstruction and Contrastive-based Models for Task Irrelevant Factors of Variation
 
-Visit the dedicated website: [here](https://XX) for more information.
+Visit the dedicated website: [here](https://state-representation.github.io/web/) for more information.
 
 If you use this code in your work, please cite it as follows:
 
