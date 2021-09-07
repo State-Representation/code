@@ -1,7 +1,7 @@
 # Comparing Reconstruction- and Contrastive-based Models for Visual Task Plannin
 This is the code for the paper: Comparing Reconstruction- and Contrastive-based Models for Visual Task Plannin
 
-Visit the dedicated website: [here](https://github.com/State-Representation/web) for more information.
+Visit the dedicated website: [here](https://state-representation.github.io/web/) for more information.
 
 If you use this code in your work, please cite it as follows:
 
